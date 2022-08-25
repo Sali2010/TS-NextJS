@@ -1,0 +1,16 @@
+[data-theme='dark'] .main {
+  background: #2b343b;
+  border-radius: 16px;
+  width: 1156px;
+  margin: 0 auto;
+  margin-top: 16px;
+}
+
+[data-theme='light'] .main {
+    background: #ffffff;
+    border-radius: 16px;
+    width: 1156px;
+    margin: 0 auto;
+    margin-top: 16px;
+
+}

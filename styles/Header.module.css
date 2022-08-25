@@ -1,0 +1,24 @@
+.navLink {
+    font-size: 20px;
+    margin-left: 24px;
+}
+
+[data-theme='dark'] .navbar {
+    background: #2B343B;
+    border-radius: 16px;
+    width: 1156px;
+    margin : 0 auto;
+}
+
+[data-theme='dark'] .unActive{
+    color: white;
+
+}
+.active{
+    color: #187DF1B2;
+}
+.unActive{
+    color: #505050
+}
+
+
